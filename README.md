@@ -30,7 +30,7 @@ So to make this script is compatible with your environment , you just need to ed
 Linux:
 
 ```sh
-git clone git@github.com:dhimanparas20/wifi-DDOS-script.git && cd wifi-DDOS* && chmod +x * && cd..
+git clone git@github.com:dhimanparas20/wifi-DDOS-script.git && cd wifi-DDOS* && chmod +x * && cd ..
 ```
 
 ```sh
