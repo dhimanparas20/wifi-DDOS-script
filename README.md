@@ -34,7 +34,7 @@ git clone git@github.com:dhimanparas20/wifi-DDOS-script.git && cd wifi-DDOS* && 
 ```
 
 ```sh
-wget https://raw.githubusercontent.com/dhimanparas20/wifi-DDOS-script/main/run.sh 
+wget https://raw.githubusercontent.com/dhimanparas20/wifi-DDOS-script/main/run.sh && chmod +x run.sh
 ```
   
 ```sh
